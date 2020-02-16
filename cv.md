@@ -1,6 +1,7 @@
 # Junior Developer (in future) Resume
 
- ### **Name**: Jakhongir Sagdullaev
+ ### **Name**: 
+ Jakhongir Sagdullaev
  ### **Education**: Inha University in Tashkent, RSSchool (JS course)
  ### **Skills**:
 - C++
